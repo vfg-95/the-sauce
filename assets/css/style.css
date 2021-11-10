@@ -34,3 +34,19 @@ header {
     border: solid 1px #D8E2E9;
 }
 
+/* Recipe Section */
+
+#recipes {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.recipe {
+    height: 350px;
+    width: 80%;
+    border: solid 1px #D8E2E9;
+    margin: 10px 0px;
+}
+
