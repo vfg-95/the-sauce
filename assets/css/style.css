@@ -10,3 +10,10 @@ header {
     height: 60px;
     border-bottom: solid 1px #D8E2E9;
 }
+
+/* Featured recipe */
+
+#featured-recipe {
+    height: 400px;
+    background-color: #81878B;
+}
