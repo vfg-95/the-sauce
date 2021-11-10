@@ -17,3 +17,20 @@ header {
     height: 400px;
     background-color: #81878B;
 }
+
+/* Sustainable section */
+
+#sustainable {
+    height: 400px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.sustainable-container {
+    height: 80%;
+    width: 80%;
+    border: solid 1px #D8E2E9;
+}
+
