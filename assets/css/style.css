@@ -3,3 +3,10 @@
     margin: 0;
     border: none;
 }
+
+/* Header */
+
+header {
+    height: 60px;
+    border-bottom: solid 1px #D8E2E9;
+}
