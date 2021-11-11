@@ -27,7 +27,19 @@ header {
     margin: 0 20px 0 0;
     color: black;
     background-color: white;
-    font-size: 20px;
+    font-size: 30px;
+}
+
+.menu-dropdown ul {
+    position: absolute;
+    background-color: turquoise;
+    list-style-type: none;
+    height: 100px;
+    width: 80px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
 }
 
 
