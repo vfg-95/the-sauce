@@ -42,6 +42,11 @@ header {
     align-items: center;
 }
 
+.menu-dropdown a {
+    text-decoration: none;
+    color: black;
+}
+
 
 /* Featured recipe */
 
