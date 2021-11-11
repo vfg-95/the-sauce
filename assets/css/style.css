@@ -28,6 +28,12 @@ header {
     color: black;
     background-color: white;
     font-size: 30px;
+    cursor: pointer;
+
+}
+
+#menu button:hover {
+    color: #81878B;
 }
 
 .menu-dropdown ul {
@@ -42,6 +48,7 @@ header {
     align-items: center;
     border-radius: 3px;
     border: solid 1px black;
+
 }
 
 .menu-dropdown a {
