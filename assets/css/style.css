@@ -32,10 +32,6 @@ header {
 
 }
 
-#menu button:hover {
-    color: #81878B;
-}
-
 .menu-dropdown ul {
     position: absolute;
     background-color: white;
@@ -48,7 +44,8 @@ header {
     align-items: center;
     border-radius: 3px;
     border: solid 1px black;
-
+    opacity: 0;
+    pointer-events: none;
 }
 
 .menu-dropdown a {
@@ -67,6 +64,16 @@ header {
 .menu-dropdown li:hover {
     background-color: #81878B;
 }
+
+#menu button:hover {
+    color: #81878B;
+}
+
+#menu button:focus + .menu-dropdown ul {
+    opacity: 1;
+    pointer-events: all;
+}
+
 
 
 /* Featured recipe */
