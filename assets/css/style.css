@@ -23,6 +23,12 @@ header {
 
 /* Menu */
 
+#menu button {
+    margin: 0 20px 0 0;
+    color: black;
+    background-color: white;
+    font-size: 20px;
+}
 
 
 /* Featured recipe */
