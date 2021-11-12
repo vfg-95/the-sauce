@@ -153,10 +153,24 @@ header {
 }
 
 .recipe {
-    height: 200px;
+    height: 250px;
     width: 200px;
     border: solid 1px #D8E2E9;
     margin: 10px 10px;
+}
+
+.eggfr-img {
+    height: 200px;
+    width: 200px;
+    object-fit: cover;
+}
+
+.eggfr-info {
+    height: 50px;
+    width: 200px;
+    background-color: #02A9B7;
+    display: flex;
+    align-items: center;
 }
 
 /* Garlic tips Section */
