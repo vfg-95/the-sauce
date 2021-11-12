@@ -125,7 +125,12 @@ header {
 .sustainable-container {
     height: 80%;
     width: 80%;
-    border: solid 1px #D8E2E9;
+}
+
+.sustainable-container img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
 }
 
 /* Recipe Section */
