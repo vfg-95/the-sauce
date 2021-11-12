@@ -171,6 +171,12 @@ header {
     background-color: #02A9B7;
     display: flex;
     align-items: center;
+    justify-content: center;
+}
+
+.eggfr-info p {
+    font-family: 'Archivo', sans-serif;
+    color: white;
 }
 
 /* Garlic tips Section */
