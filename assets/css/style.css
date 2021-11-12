@@ -185,13 +185,31 @@ header {
     height: 600px;
     margin-top: 20px;
     display: flex;
+    flex-direction: column;
     justify-content: center;
     background-color: black;
 }
 
-#garlic-tips div {
+.garlic-text {
+    height: 20%;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.garlic-text p {
+    margin: 5px 0 0 10px;
+    text-align: center;
+    font-family: 'Archivo', sans-serif;
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+.youtube-video {
     height: 80%;
-    width: 95%;
+    width: 100%;
 }
 
 /* Contact section */
