@@ -182,8 +182,16 @@ header {
 /* Garlic tips Section */
 
 #garlic-tips {
-    height: 400px;
-    background-color: #81878B;
+    height: 600px;
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    background-color: black;
+}
+
+#garlic-tips div {
+    height: 80%;
+    width: 95%;
 }
 
 /* Contact section */
