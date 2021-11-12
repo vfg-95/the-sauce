@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Almarai&family=Arvo&family=Josefin+Sans&family=Red+Hat+Display&family=Tinos&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Almarai&family=Archivo&family=Arvo&family=Tinos&display=swap');
 
 * {
     padding: 0;
@@ -104,7 +104,7 @@ header {
 
 .featured-text p {
     color: white;
-    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Archivo', sans-serif;
     font-size: 1.8em;
 }
 
