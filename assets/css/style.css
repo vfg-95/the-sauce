@@ -21,6 +21,8 @@ header {
 
 .logo {
     margin-left: 5%;
+    font-family: 'Almarai', sans-serif;
+
 }
 
 /* Menu */
@@ -31,10 +33,12 @@ header {
     background-color: white;
     font-size: 30px;
     cursor: pointer;
+    font-family: 'Almarai', sans-serif;
 
 }
 
 .menu-dropdown ul {
+    font-family: 'Almarai', sans-serif;
     position: absolute;
     background-color: white;
     list-style-type: none;
