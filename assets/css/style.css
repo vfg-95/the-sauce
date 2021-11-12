@@ -85,7 +85,7 @@ header {
 /* Featured recipe */
 
 #featured-recipe {
-    height: 700px;
+    height: 650px;
 }
 
 #featured-recipe a {
@@ -99,7 +99,7 @@ header {
 }
 
 .featured-text {
-    height: 200px;
+    height: 150px;
     background-color: #02A9B7;
     display: flex;
     justify-content: center;
