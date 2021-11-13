@@ -216,6 +216,15 @@ header {
 
 #contact {
     height: 800px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.contact-container {
+    height: 90%;
+    width: 95%;
+    border: 2px solid black;
 }
 
 /* Footer */
