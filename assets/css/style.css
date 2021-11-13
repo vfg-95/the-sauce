@@ -227,6 +227,11 @@ header {
     border: 2px solid black;
 }
 
+.contact-us {
+    height: 50%;
+    border-bottom: 2px solid black;
+}
+
 /* Footer */
 
 footer {
