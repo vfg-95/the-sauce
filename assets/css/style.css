@@ -187,7 +187,7 @@ header {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    background-color: black;
+    background-color: #08E66E;
 }
 
 .garlic-text {
