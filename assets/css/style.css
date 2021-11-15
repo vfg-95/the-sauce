@@ -252,6 +252,20 @@ header {
     color: black;
 }
 
+.mail-sign-up-header {
+    font-size: 1.8em;
+    font-family: 'Archivo', sans-serif;
+    text-align: center;
+    margin: 20px 0 10px 0;
+}
+
+.mail-sign-up-p {
+    font-family: 'Tinos', serif;
+    font-size: 1.1em;
+    margin: 0 10px;
+    text-decoration: none;
+}
+
 /* Footer */
 
 footer {
