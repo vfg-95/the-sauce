@@ -252,6 +252,11 @@ header {
     color: black;
 }
 
+.mail-sign-up {
+    display: flex;
+    flex-direction: column;
+}
+
 .mail-sign-up-header {
     font-size: 1.8em;
     font-family: 'Archivo', sans-serif;
@@ -266,6 +271,15 @@ header {
     text-decoration: none;
 }
 
+.mail-sign-up input {
+    margin: 30px 10px 0 10px;
+    width: 95%;
+    height: 40px;
+    border: 2px solid black;
+    border-radius: 3px;
+    color: gray;
+    font: inherit;
+}
 /* Footer */
 
 footer {
