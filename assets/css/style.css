@@ -311,7 +311,7 @@ header {
 
 footer {
     height: 80px;
-    background-color: #EBD4B6;
+    background-color: #053049;
 }
 
 footer div {
@@ -320,7 +320,7 @@ footer div {
 
 footer a {
     text-decoration: none;
-    color: black;
+    color: white;
     display: inline-block;
 }
 
