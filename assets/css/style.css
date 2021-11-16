@@ -224,14 +224,17 @@ header {
 }
 
 .contact-container {
-    height: 90%;
-    width: 95%;
-    border: 2px solid black;
+    height: 80%;
+    width: 80%;
+    background-color: #76B8C5;
+    border: 2px solid white;
+    color: white;
 }
 
 .contact-us {
     height: 50%;
-    border-bottom: 2px solid black;
+    border-bottom: solid 2px white;
+    text-align: center;
 }
 
 .contact-us-header {
@@ -251,12 +254,13 @@ header {
 .contact-us a {
     text-decoration: none;
     font-weight: bold;
-    color: black;
+    color: white;
 }
 
 .mail-sign-up {
     display: flex;
     flex-direction: column;
+    text-align: center;
 }
 
 .mail-sign-up-header {
@@ -281,8 +285,6 @@ header {
     margin: 30px 10px 0 10px;
     width: 95%;
     height: 40px;
-    border: 2px solid black;
-    border-radius: 3px;
     color: gray;
     font: inherit;
 }
@@ -295,7 +297,8 @@ header {
     letter-spacing: .1em;
     font-size: 1.3em;
     font-weight: 900;
-    border-radius: 3px;
+    background-color: #094B71;
+    color: white;
 }
 
 
