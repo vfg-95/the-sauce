@@ -219,6 +219,8 @@ header {
     display: flex;
     justify-content: center;
     align-items: center;
+    background-image: url(../../assets/images/backgrounddish2.jpg);
+    background-size: cover;
 }
 
 .contact-container {
