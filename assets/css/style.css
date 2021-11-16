@@ -271,6 +271,10 @@ header {
     text-decoration: none;
 }
 
+.mail-sign-up ul {
+    list-style-type: none;
+}
+
 .mail-sign-up input {
     margin: 30px 10px 0 10px;
     width: 95%;
