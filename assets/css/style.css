@@ -156,20 +156,19 @@ header {
 
 .recipe {
     height: 250px;
-    width: 200px;
-    border: solid 1px #D8E2E9;
-    margin: 10px 10px;
+    width: 45%;
+    margin: 10px 2.5%
 }
 
 .recipe-img {
     height: 200px;
-    width: 200px;
+    width: 100%;
     object-fit: cover;
 }
 
 .recipe-info {
     height: 50px;
-    width: 200px;
+    width: 100%;
     background-color: #02A9B7;
     display: flex;
     align-items: center;
