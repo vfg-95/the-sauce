@@ -290,15 +290,20 @@ header {
 }
 
 .mail-sign-up button {
-    width: 30%;
+    width: 40%;
     height: 30px;
-    margin: 10px 35%;
+    margin: 10px 30%;
     font-family: 'Barlow', sans-serif;
     letter-spacing: .1em;
-    font-size: 1.3em;
+    font-size: 1.2em;
     font-weight: 900;
     background-color: #094B71;
     color: white;
+    transition-duration: 0.4s;
+}
+
+.mail-sign-up button:hover {
+    background-color: #053049; 
 }
 
 
