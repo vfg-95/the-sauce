@@ -359,3 +359,33 @@ footer a {
     width: 100%;
     object-fit: cover;
 }
+
+.full-recipe {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.info {
+    height: 60px;
+    width: 100%;
+    background-color: #02A9B7;
+    font-family: 'Archivo', sans-serif;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.info h2 {
+    vertical-align: middle;
+    margin: 0 2.5%;
+}
+
+.info p {
+    margin: 0 2.5%;
+    font-size: 140%;
+    font-weight: bold;
+}
