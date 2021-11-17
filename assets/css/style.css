@@ -25,6 +25,11 @@ header {
 
 }
 
+.logo a {
+    text-decoration: none;
+    color: black;
+}
+
 /* Menu */
 
 #menu button {
