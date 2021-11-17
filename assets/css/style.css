@@ -347,3 +347,15 @@ footer a {
 .social-media {
     font-size: 1.3em;
 }
+
+/* Recipe pages */
+
+.head-img {
+    height: 500px;
+}
+
+.head-img img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
