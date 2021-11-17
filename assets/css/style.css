@@ -377,6 +377,7 @@ footer a {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    border-bottom: 2px solid white;
 }
 
 .info h2 {
@@ -393,3 +394,18 @@ footer a {
 .fa-pound-sign, .fa-clock {
     font-size: 95%;
 }
+
+.ingredients {
+    height: 100%;
+    width: 100%;
+    background-color: #02A9B7;
+}
+
+.ingredients ul {
+    color: white;
+    font-size: 130%;
+    font-family: 'Archivo', sans-serif;
+    margin: 20px 2.5%;
+}
+
+
