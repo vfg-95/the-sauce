@@ -216,7 +216,7 @@ header {
 /* Contact section */
 
 #contact {
-    height: 800px;
+    height: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -230,6 +230,7 @@ header {
     background-color: #76B8C5;
     border: 2px solid white;
     color: white;
+    margin: 40px 0;
 }
 
 .contact-us {
@@ -292,7 +293,7 @@ header {
 
 .mail-sign-up button {
     width: 40%;
-    height: 30px;
+    height: 120%;
     margin: 10px 30%;
     font-family: 'Barlow', sans-serif;
     letter-spacing: .1em;
