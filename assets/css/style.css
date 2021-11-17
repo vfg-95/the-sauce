@@ -389,3 +389,7 @@ footer a {
     font-size: 140%;
     font-weight: bold;
 }
+
+.fa-pound-sign, .fa-clock {
+    font-size: 95%;
+}
