@@ -408,4 +408,15 @@ footer a {
     margin: 20px 2.5%;
 }
 
+.recipe-brief {
+    height: 100%;
+    width: 100%;
+}
+
+.recipe-brief p {
+    font-style: italic;
+    font-family: 'Tinos', serif;
+    margin: 15px 2.5%;
+    font-size: 110%;
+}
 
