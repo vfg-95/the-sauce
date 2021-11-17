@@ -420,3 +420,17 @@ footer a {
     font-size: 110%;
 }
 
+.instructions {
+    width: 100%;
+    height: 100%;
+}
+
+.steps {
+    text-align: center;
+    text-decoration: underline;
+    font-weight: bold;
+    font-family: 'Tinos', serif;
+    font-size: 130%;
+    margin: 5px 0;
+}
+
