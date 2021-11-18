@@ -439,3 +439,9 @@ footer a {
     font-size: 100%;
     margin: 10px 2.5%;
 }
+
+.instruction a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
