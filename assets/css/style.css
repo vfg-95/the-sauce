@@ -458,3 +458,9 @@ footer a {
     align-items: center;
 }
 
+#sustainability div {
+    height: 80%;
+    width: 80%;
+    background-color: #84CF89;
+    border: 2px solid white;
+}
