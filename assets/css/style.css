@@ -445,3 +445,16 @@ footer a {
     color: black;
     font-weight: bold;
 }
+
+/* Sustainability page */
+
+#sustainability {
+    height: 800px;
+    width: 100%;
+    background-image: url(../images/lake.jpg);
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
