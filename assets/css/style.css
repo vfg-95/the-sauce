@@ -463,5 +463,25 @@ footer a {
     background-color: #84CF89;
     border: 2px solid white;
     margin: 50px 0;
+    color: white;
 }
 
+#sustainability h1 {
+    font-family: 'Archivo', sans-serif;
+    font-size: 180%;
+    text-align: center;
+    margin: 20px 2.5% 10px 2.5%;
+}
+
+#sustainability p {
+    font-family: 'Tinos', serif;
+    font-size: 120%;
+    text-align: center;
+    margin: 10px 2.5% 10px 2.5%;
+}
+
+#sustainability ul li{
+    list-style-type: none;
+    text-align: center;
+    margin: 10px 2.5% 10px 2.5%;
+}
