@@ -449,7 +449,6 @@ footer a {
 /* Sustainability page */
 
 #sustainability {
-    height: 800px;
     width: 100%;
     background-image: url(../images/lake.jpg);
     background-size: cover;
@@ -463,5 +462,6 @@ footer a {
     width: 80%;
     background-color: #84CF89;
     border: 2px solid white;
+    margin: 50px 0;
 }
 
