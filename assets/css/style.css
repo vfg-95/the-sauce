@@ -20,9 +20,10 @@ header {
 }
 
 .logo {
-    margin-left: 5%;
+    font-size: 65%;
+    margin-left: 2.5%;
     font-family: 'Barlow', sans-serif;
-
+    border: 2px solid black;
 }
 
 .logo a {
@@ -86,7 +87,17 @@ header {
 }
 */
 
+#menu {
+    color: black;
+    font-family: 'Barlow', sans-serif;
+    margin: 0 2.5% 0 0;
+}
 
+#menu a {
+    text-decoration: none;
+    color: black;
+    margin: 0 2px 0 0;
+}
 
 /* Featured recipe */
 
