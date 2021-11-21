@@ -554,3 +554,15 @@ footer a:hover {
 #contact-us a:hover {
     color: #053049;
 }
+
+/* About Us Page */
+
+#about-section {
+    background-image: url(../images/mezze.jpg);
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
