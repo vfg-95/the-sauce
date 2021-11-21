@@ -115,6 +115,11 @@ header {
 
 #featured-recipe {
     height: 650px;
+
+}
+
+.featured-recipe-img {
+    overflow: hidden;
 }
 
 #featured-recipe a {
