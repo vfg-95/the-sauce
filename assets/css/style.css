@@ -115,7 +115,6 @@ header {
 
 #featured-recipe {
     height: 650px;
-
 }
 
 .featured-recipe-img {
@@ -204,13 +203,15 @@ header {
 .recipe {
     height: 250px;
     width: 45%;
-    margin: 10px 2.5%
+    margin: 10px 2.5%;
+    overflow: hidden;
 }
 
 .recipe-img {
     height: 200px;
     width: 100%;
     object-fit: cover;
+    transition: transform 0.3s;
 }
 
 .recipe-info {
@@ -225,6 +226,10 @@ header {
 .recipe-info p {
     font-family: 'Archivo', sans-serif;
     color: white;
+}
+
+.recipe-img:hover {
+    transform: scale(1.1);
 }
 
 /* Garlic tips Section */
