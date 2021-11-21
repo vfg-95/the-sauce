@@ -163,12 +163,14 @@ header {
 .sustainable-container {
     height: 80%;
     width: 80%;
+    overflow: hidden;
 }
 
 .sustainable-container img {
     height: 100%;
     width: 100%;
     object-fit: cover;
+    transition: transform 0.3s;
 }
 
 #sustainable p {
@@ -178,6 +180,10 @@ header {
     font-size: 1.1em;
     font-weight: bold;
     text-align: center;
+}
+
+.sustainable-container img:hover {
+    transform: scale(1.1);
 }
 
 /* Recipe Section */
