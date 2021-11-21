@@ -557,7 +557,7 @@ footer a:hover {
 
 /* About Us Page */
 
-#about-section {
+#aboutus-section {
     background-image: url(../images/mezze.jpg);
     background-size: cover;
     height: 100%;
@@ -565,4 +565,13 @@ footer a:hover {
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+#aboutus-section div {
+    height: 60%;
+    width: 80%;
+    background-color: #76B8C5;
+    border: 2px solid white;
+    margin: 50px 0;
+    color: white;
 }
