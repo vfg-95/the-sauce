@@ -366,6 +366,10 @@ footer a {
     font-size: 1.3em;
 }
 
+footer a:hover {
+    color: #02A9B7;
+}
+
 /* Recipe pages */
 
 .head-img {
