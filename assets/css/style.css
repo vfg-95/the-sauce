@@ -671,4 +671,17 @@ footer a:hover {
     #featured-recipe img {
         height: 700px;
     }
+
+    .recipe {
+        height: 350px;
+    }
+    
+    .recipe-img {
+        height: 300px;
+
+    }
+    
+    .recipe-info {
+        height: 50px;
+    }
 }
