@@ -682,4 +682,10 @@ footer a:hover {
     #aboutus-section {
         height: 1000px;
     }
+
+    /* Sign-Up Confirmation Page */
+
+    #signup-confirm {
+        height: 1100px;
+    }
 }
