@@ -285,37 +285,6 @@ header {
     margin: 40px 0;
     overflow-x: auto;
     overflow-y: auto;
-}
-
-/*
-
-.contact-us {
-    height: 50%;
-    border-bottom: solid 2px white;
-    text-align: center;
-}
-
-.contact-us-header {
-    font-size: 1.8em;
-    font-family: 'Archivo', sans-serif;
-    text-align: center;
-    margin: 20px 0 10px 0;
-}
-
-.contact-us-p {
-    font-family: 'Tinos', serif;
-    font-size: 1.1em;
-    margin: 0 10px;
-    text-decoration: none;
-}
-
-.contact-us a {
-    text-decoration: none;
-    font-weight: bold;
-    color: white;
-}
-
-*/
 
 .mail-sign-up {
     height: 100%;
@@ -697,4 +666,5 @@ footer a:hover {
         height: 85%;
     }
     
+
 }
