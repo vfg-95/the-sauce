@@ -684,4 +684,17 @@ footer a:hover {
     .recipe-info {
         height: 50px;
     }
+
+    #garlic-tips {
+        height: 800px;
+    }
+
+    .garlic-text {
+        height: 15%;
+    }
+    
+    .youtube-video {
+        height: 85%;
+    }
+    
 }
