@@ -733,4 +733,12 @@ footer a:hover {
         height: 1300px;
     }
 
+    #signup-confirm h2 {
+        font-size: 7em;
+    }
+
+    #signup-confirm p {
+        font-size: 3em;
+    }
+
 }
