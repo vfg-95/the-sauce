@@ -635,6 +635,7 @@ footer a:hover {
 /* Home Screen */
 
 @media only screen and (min-width: 481px) {
+
     #menu a {
     margin: 0 20px 0 0;
     }
@@ -689,4 +690,15 @@ footer a:hover {
     #signup-confirm {
         height: 1100px;
     }
+
+}
+
+/* Large Tablet Screens */
+
+@media only screen and (min-width: 769px) {
+
+    #sign-up {
+        height: 800px;
+    }
+
 }
