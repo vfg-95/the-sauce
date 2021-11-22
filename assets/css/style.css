@@ -419,6 +419,7 @@ footer a:hover {
 }
 
 .ingredients ul {
+    list-style-type: none;
     color: white;
     font-size: 130%;
     font-family: 'Archivo', sans-serif;
@@ -625,6 +626,8 @@ footer a:hover {
 
 /* Tablet Screen Size */
 
+/* Home Screen */
+
 @media only screen and (min-width: 768px) {
     #menu a {
     margin: 0 20px 0 0;
@@ -662,6 +665,9 @@ footer a:hover {
     .youtube-video {
         height: 85%;
     }
-    
+
+/* Recipe Pages */
+
+
     
 }
