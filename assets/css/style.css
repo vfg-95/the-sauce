@@ -630,3 +630,12 @@ footer a:hover {
     background-image: url(../../assets/images/backgrounddish2.jpg);
     background-size: cover;
 }
+
+#signup-confirm div {
+    height: 50%;
+    width: 80%;
+    background-color: #76B8C5;
+    border: 2px solid white;
+    color: white;
+    margin: 40px 0;
+}
