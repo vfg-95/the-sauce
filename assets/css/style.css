@@ -674,4 +674,9 @@ footer a:hover {
         height: 700px;
     }
     
+    /* About Us Page*/
+
+    #aboutus-section {
+        height: 1000px;
+    }
 }
