@@ -710,7 +710,15 @@ footer a:hover {
     }
 
     #aboutus-section div {
-        height: 50%;
+        height: 75%;
+    }
+
+    #aboutus-section h2 {
+        font-size: 3.5em;
+    }
+
+    #aboutus-section p {
+        font-size: 1.8em;
     }
 
 }
