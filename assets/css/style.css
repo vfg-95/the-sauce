@@ -701,6 +701,18 @@ footer a:hover {
         height: 800px;
     }
 
+    #sustainability h1 {
+        font-size: 3em;
+    }
+
+    #sustainability p {
+        font-size: 2em;
+    }
+
+    #sustainability ul li {
+        font-size: 2em;
+    }
+
     #contact-us {
         height: 1300px;
     }
