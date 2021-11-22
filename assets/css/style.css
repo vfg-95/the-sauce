@@ -656,3 +656,11 @@ footer a:hover {
     margin: 2.5% 5%;
     text-align: center;
 }
+
+/* Tablet Screen Size */
+
+@media only screen and (min-width: 768px) {
+    #menu a {
+    margin: 0 20px 0 0;
+    }
+}
