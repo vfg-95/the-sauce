@@ -619,3 +619,14 @@ footer a:hover {
     text-align: center;
     margin: 2.5% 5%;
 }
+
+/* Sign-Up Confirmation Page */
+
+#signup-confirm {
+    height: 800px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(../../assets/images/backgrounddish2.jpg);
+    background-size: cover;
+}
