@@ -444,12 +444,11 @@ footer a:hover {
 }
 
 .steps {
-    text-align: center;
     text-decoration: underline;
     font-weight: bold;
     font-family: 'Tinos', serif;
     font-size: 130%;
-    margin: 5px 0;
+    margin: 5px 2.5%;
 }
 
 .instruction {
