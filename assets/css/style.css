@@ -571,6 +571,9 @@ footer a:hover {
     border: 2px solid white;
     margin: 50px 0;
     color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
 
 
