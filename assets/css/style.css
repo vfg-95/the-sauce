@@ -705,6 +705,14 @@ footer a:hover {
         height: 1300px;
     }
 
+    #contact-us h2 {
+        font-size: 3.5em;
+    }
+
+    #contact-us p {
+        font-size: 2.5em;
+    }
+
     #aboutus-section {
         height: 1300px;
     }
