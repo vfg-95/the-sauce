@@ -796,5 +796,19 @@ footer a:hover {
         #sustainable p {
             width: 50%;
             margin: 10px 0;
+            font-size: 1.3em;
+        }
+
+        .recipe {
+            height: 500px;
+        }
+        
+        .recipe-img {
+            height: 450px;
+    
+        }
+        
+        .recipe-info {
+            height: 50px;
         }
 }
