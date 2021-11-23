@@ -846,5 +846,18 @@ footer a:hover {
             object-fit: cover;
             object-position: 15% 85%;
         }
-        
+
+
+        .recipe-brief p {
+            font-size: 1.3em;
+        }
+
+        .steps {
+            font-size: 1.3em;
+        }
+
+        .instruction {
+            font-size: 1.2em;
+        }
+
 }
