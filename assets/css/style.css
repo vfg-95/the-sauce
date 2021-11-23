@@ -496,6 +496,7 @@ footer a:hover {
     font-size: 120%;
     text-align: center;
     margin: 10px 2.5% 10px 2.5%;
+    font-style: italic;
 }
 
 #sustainability ul li{
@@ -702,15 +703,15 @@ footer a:hover {
     }
 
     #sustainability h1 {
-        font-size: 3em;
+        font-size: 2.5em;
     }
 
     #sustainability p {
-        font-size: 2em;
+        font-size: 1.4em;
     }
 
     #sustainability ul li {
-        font-size: 2em;
+        font-size: 1.3em;
     }
 
     #contact-us {
