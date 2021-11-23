@@ -841,4 +841,10 @@ footer a:hover {
             height: 40px;
             font-size: 1.4em;
         }
+        
+        .head-img img {
+            object-fit: cover;
+            object-position: 15% 85%;
+        }
+        
 }
