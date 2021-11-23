@@ -781,4 +781,20 @@ footer a:hover {
         .featured-text {
             height: 100px;
         }
+
+        #sustainable {
+            height: 700px;
+ 
+        }
+        
+        .sustainable-container {
+            height: 95%;
+            width: 50%;
+            overflow: hidden;
+        }
+
+        #sustainable p {
+            width: 50%;
+            margin: 10px 0;
+        }
 }
