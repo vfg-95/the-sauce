@@ -645,6 +645,10 @@ footer a:hover {
         height: 800px;
     }
 
+    #sustainable p {
+        width: 80%;
+    }
+
     #sustainability {
         height: 1300px;
     }
