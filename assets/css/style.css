@@ -553,6 +553,7 @@ footer a:hover {
     border: 2px solid white;
     color: white;
     margin: 40px 0;
+    padding: 15px;
     display: flex;
     flex-direction: column;
     justify-content: center;
