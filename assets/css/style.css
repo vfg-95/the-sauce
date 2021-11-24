@@ -59,6 +59,10 @@ header {
 
 /* Featured recipe */
 
+#featured-recipe {
+    height: 650px;
+}
+
 .featured-recipe-img {
     overflow: hidden;
 }
@@ -72,6 +76,7 @@ header {
     height: 500px;
     object-fit: cover;
     transition: transform .3s;
+    z-index: -1;
 }
 
 .featured-text {
