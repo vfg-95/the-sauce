@@ -767,12 +767,12 @@ footer a:hover {
         
         .sustainable-container {
             height: 95%;
-            width: 50%;
+            max-width: 70%;
             overflow: hidden;
         }
 
         #sustainable p {
-            width: 50%;
+            max-width: 70%;
             margin: 10px 0;
             font-size: 1.3em;
         }
