@@ -645,8 +645,12 @@ footer a:hover {
 
 @media only screen and (min-width: 769px) {
 
+    .sustainable-container {
+        max-width: 80%;
+    }
+
     #sustainable p {
-        width: 80%;
+        max-width: 80%;
     }
 
     #sustainability {
