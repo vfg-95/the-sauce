@@ -20,11 +20,9 @@ header {
     z-index: 99;
 }
 
-.logo {
-    font-size: 65%;
-    margin-left: 2.5%;
-    font-family: 'Barlow', sans-serif;
-    border: 2px solid black;
+.logo img {
+    height: 30px;
+    padding: 7.5px 0 0 7.5%;
     transition: transform .2s;
 }
 
