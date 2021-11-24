@@ -112,7 +112,6 @@ header {
 
 .sustainable-container {
     height: 80%;
-    width: 80%;
     overflow: hidden;
 }
 
@@ -124,8 +123,7 @@ header {
 }
 
 #sustainable p {
-    width: 80%;
-    margin: 10px 0;
+    padding: 10px 15px;
     font-family: 'Archivo', sans-serif;
     font-size: 1.1em;
     font-weight: bold;
