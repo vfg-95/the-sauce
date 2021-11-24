@@ -641,10 +641,6 @@ footer a:hover {
 
 @media only screen and (min-width: 769px) {
 
-    #sign-up {
-        height: 800px;
-    }
-
     #sustainable p {
         width: 80%;
     }
