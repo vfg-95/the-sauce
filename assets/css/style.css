@@ -548,8 +548,7 @@ footer a:hover {
 }
 
 #signup-confirm div {
-    height: 50%;
-    width: 80%;
+    max-width: 80%;
     background-color: #76B8C5;
     border: 2px solid white;
     color: white;
@@ -645,6 +644,8 @@ footer a:hover {
 
 @media only screen and (min-width: 769px) {
 
+    /* Home Page */
+
     .sustainable-container {
         max-height: 80%;
         max-width: 80%;
@@ -669,6 +670,8 @@ footer a:hover {
         max-width: 70%;
     }
 
+    /* Sustainability Page */
+
     #sustainability {
         height: 1300px;
     }
@@ -685,6 +688,8 @@ footer a:hover {
         font-size: 1.3em;
     }
 
+    /* Contact Us Page */
+
     #contact-us {
         height: 1300px;
     }
@@ -696,6 +701,8 @@ footer a:hover {
     #contact-us p {
         font-size: 2.5em;
     }
+
+    /* About Us Page */
 
     #aboutus-section {
         height: 1300px;
@@ -712,6 +719,8 @@ footer a:hover {
     #aboutus-section p {
         font-size: 1.8em;
     }
+
+    /* Sign Up Confirm Page */
 
     #signup-confirm {
         height: 1300px;
@@ -731,7 +740,9 @@ footer a:hover {
 
 @media only screen and (min-width: 1025px) {
 
-    #menu a {
+        /* Home Page */
+
+        #menu a {
         margin: 0 30px 0 0;
         }
 
@@ -808,12 +819,13 @@ footer a:hover {
             height: 40px;
             font-size: 1.4em;
         }
+
+        /* Recipe Pages */
         
         .head-img img {
             object-fit: cover;
             object-position: 15% 85%;
         }
-
 
         .recipe-brief p {
             font-size: 1.3em;
