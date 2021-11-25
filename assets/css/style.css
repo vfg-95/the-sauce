@@ -22,7 +22,7 @@ header {
 
 .logo img {
     height: 30px;
-    transition: transform .2s;
+    transition: transform 0.2s;
 }
 
 .logo a {
@@ -769,6 +769,23 @@ footer a:active {
 
     /* Header / Menu */
 
+    .logo {
+        transition: transform 0.3s;
+    }
+
+    .logo img {
+        height: 30px;
+    }
+
+    .logo:hover {
+        transform: scale(1.1);
+    }
+
+    #menu a:hover {
+        color: #02A9B7;
+        transition-duration: 0.3s;
+    }
+
     /* Home Page */
 
     #featured-recipe {
@@ -778,6 +795,11 @@ footer a:active {
     #featured-recipe img {
         height: 550px;
         object-position: 15% 85%;
+        transition: transform .3s;
+    }
+
+    #featured-recipe img:hover {
+        transform: scale(1.1);
     }
 
     .featured-text {
@@ -795,14 +817,23 @@ footer a:active {
         overflow: hidden;
     }
 
+    .sustainable-container img {
+        transition: transform 0.3s;
+    }
+
     #sustainable p {
         max-width: 70%;
         margin: 10px 0;
         font-size: 1.3em;
     }
 
+    .sustainable-container img:hover {
+        transform: scale(1.1);
+    }
+    
     .recipe {
         height: 500px;
+        transition-duration: 0.3s;
     }
 
     .recipe-img {
@@ -816,6 +847,10 @@ footer a:active {
 
     .recipe-info h2 {
         font-size: 1.4em;
+    }
+
+    .recipe:hover {
+        transform: scale(1.05);
     }
 
     .garlic-text h2, h3 {
@@ -843,6 +878,19 @@ footer a:active {
     .mail-sign-up button {
         height: 40px;
         font-size: 1.4em;
+        transition-duration: 0.3s;
+    }
+
+    .mail-sign-up button:hover {
+        background-color: #053049;
+    }
+
+    footer a {
+        transition-duration: 0.3s;
+    }
+
+    footer a:hover {
+        color: #02A9B7;
     }
 
     /* Recipe Pages */
@@ -862,6 +910,16 @@ footer a:active {
 
     .instruction {
         font-size: 1.2em;
+    }
+
+    /* Contact Us Page */
+
+    #contact-us {
+        transition-duration: 0.4s;
+    }
+
+    #contact-us a:hover {
+        color: #053049;
     }
 
 }
