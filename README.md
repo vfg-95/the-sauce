@@ -8,13 +8,13 @@ The Sauce is a cooking and recipe website which aims it's content at younger/ine
 
 ## Aims
 
-### Site Aims
+### Organisation Aims
 - Engage new cooks and help them to start cooking for themselves
 - Encourage sustainable eating with vegetarian and vegan options and emphasis on minimising waste
 - Have a site which conveys it's intentions through it's design
 - Allow users to contribute to the site
 
-### User Wants
+### User Stories
 - The user wants to immediately know the purpose of the site
 - The user wants to buy into the ethos of the site
 - The user want to be able to quickly and easily navigate the site
@@ -23,7 +23,7 @@ The Sauce is a cooking and recipe website which aims it's content at younger/ine
 - The user wants the site to be phone friendly
 
 ### Target Audience
-- Younger people & students - but still suitable/accessable for any age
+- Younger people & students - but still suitable/accessable for any age if they are new to cooking
 - People who have not yet discovered their passion for food & cooking
 - People with a care for sustainability in their lives
 
