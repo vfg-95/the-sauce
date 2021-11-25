@@ -166,7 +166,7 @@ header {
 .recipe-info h2 {
     font-family: 'Archivo', sans-serif;
     color: white;
-    font-size: 1em ;
+    font-size: 1em;
 }
 
 .recipe:hover {
@@ -348,7 +348,8 @@ footer a:hover {
     font-weight: bold;
 }
 
-.fa-pound-sign, .fa-clock {
+.fa-pound-sign,
+.fa-clock {
     font-size: 0.95em;
 }
 
@@ -438,7 +439,7 @@ footer a:hover {
     font-style: italic;
 }
 
-#sustainability ul li{
+#sustainability ul li {
     list-style-type: none;
     text-align: center;
     margin: 10px 2.5% 10px 2.5%;
@@ -576,9 +577,13 @@ footer a:hover {
 
 @media only screen and (min-width: 481px) {
 
+    /* Header / Menu */
+
     #menu a {
-    padding: 0 10px 0 10px;
+        padding: 0 10px 0 10px;
     }
+
+    /* Home Page */
 
     #featured-recipe {
         height: 850px;
@@ -595,12 +600,12 @@ footer a:hover {
     .recipe {
         height: 350px;
     }
-    
+
     .recipe-img {
         height: 300px;
 
     }
-    
+
     .recipe-info {
         height: 50px;
     }
@@ -613,7 +618,7 @@ footer a:hover {
         height: 15%;
         padding: 0px;
     }
-    
+
     .youtube-video {
         height: 85%;
     }
@@ -623,7 +628,7 @@ footer a:hover {
     .head-img {
         height: 700px;
     }
-    
+
     /* About Us Page*/
 
     #aboutus-section {
@@ -642,6 +647,13 @@ footer a:hover {
 
 @media only screen and (min-width: 769px) {
 
+    /* Header / Menu */
+
+    header {
+        flex-direction: row;
+        justify-content: space-between;
+    }
+
     /* Home Page */
 
     .sustainable-container {
@@ -657,7 +669,7 @@ footer a:hover {
         align-items: center;
         background-color: black;
     }
-    
+
     .garlic-text {
         width: 100%;
         color: white;
@@ -738,103 +750,101 @@ footer a:hover {
 
 @media only screen and (min-width: 1025px) {
 
-        /* Home Page */
+    /* Header / Menu */
 
-        #menu a {
-        margin: 0 30px 0 0;
-        }
+    /* Home Page */
 
-        #featured-recipe {
-            height: 700px;
-        }
-    
-        #featured-recipe img {
-            height: 550px;
-            object-position: 15% 85%;
-        }
-    
-        .featured-text {
-            height: 100px;
-        }
+    #featured-recipe {
+        height: 700px;
+    }
 
-        #sustainable {
-            height: 700px;
- 
-        }
-        
-        .sustainable-container {
-            height: 95%;
-            max-width: 70%;
-            overflow: hidden;
-        }
+    #featured-recipe img {
+        height: 550px;
+        object-position: 15% 85%;
+    }
 
-        #sustainable p {
-            max-width: 70%;
-            margin: 10px 0;
-            font-size: 1.3em;
-        }
+    .featured-text {
+        height: 100px;
+    }
 
-        .recipe {
-            height: 500px;
-        }
-        
-        .recipe-img {
-            height: 375px;
-    
-        }
-        
-        .recipe-info {
-            height: 75px;
-        }
+    #sustainable {
+        height: 700px;
 
-        .recipe-info h2 {
-            font-size: 1.4em;
-        }
+    }
 
-        .garlic-text p {
-            font-size: 1.6em;
-        }
+    .sustainable-container {
+        height: 95%;
+        max-width: 70%;
+        overflow: hidden;
+    }
 
-        .mail-sign-up {
-            width: 50%;
-        }
+    #sustainable p {
+        max-width: 70%;
+        margin: 10px 0;
+        font-size: 1.3em;
+    }
 
-        .mail-sign-up-header {
-            font-size: 2.5em;
-        }
-        
-        .mail-sign-up-p {
-            font-size: 1.4em;
-        }
-        
-        .mail-sign-up input {
-            color: gray;
-            font: inherit;
-            font-size: 1.2em;
-        }
-        
-        .mail-sign-up button {
-            height: 40px;
-            font-size: 1.4em;
-        }
+    .recipe {
+        height: 500px;
+    }
 
-        /* Recipe Pages */
-        
-        .head-img img {
-            object-fit: cover;
-            object-position: 15% 85%;
-        }
+    .recipe-img {
+        height: 375px;
 
-        .recipe-brief p {
-            font-size: 1.3em;
-        }
+    }
 
-        .steps {
-            font-size: 1.3em;
-        }
+    .recipe-info {
+        height: 75px;
+    }
 
-        .instruction {
-            font-size: 1.2em;
-        }
+    .recipe-info h2 {
+        font-size: 1.4em;
+    }
+
+    .garlic-text p {
+        font-size: 1.6em;
+    }
+
+    .mail-sign-up {
+        width: 50%;
+    }
+
+    .mail-sign-up-header {
+        font-size: 2.5em;
+    }
+
+    .mail-sign-up-p {
+        font-size: 1.4em;
+    }
+
+    .mail-sign-up input {
+        color: gray;
+        font: inherit;
+        font-size: 1.2em;
+    }
+
+    .mail-sign-up button {
+        height: 40px;
+        font-size: 1.4em;
+    }
+
+    /* Recipe Pages */
+
+    .head-img img {
+        object-fit: cover;
+        object-position: 15% 85%;
+    }
+
+    .recipe-brief p {
+        font-size: 1.3em;
+    }
+
+    .steps {
+        font-size: 1.3em;
+    }
+
+    .instruction {
+        font-size: 1.2em;
+    }
 
 }
