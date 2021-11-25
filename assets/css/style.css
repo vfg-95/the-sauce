@@ -50,7 +50,6 @@ header {
 
 #menu a:active {
     color: #02A9B7;
-    transition-duration: 0.2s;
 }
 
 /* Featured recipe */
@@ -71,7 +70,7 @@ header {
     width: 100%;
     height: 500px;
     object-fit: cover;
-    transition: transform .3s;
+    transition: transform .1s;
     z-index: -1;
 }
 
@@ -115,7 +114,7 @@ header {
     height: 100%;
     width: 100%;
     object-fit: cover;
-    transition: transform 0.3s;
+    transition: transform 0.1s;
 }
 
 #sustainable h2 {
@@ -145,7 +144,7 @@ header {
     width: 45%;
     margin: 10px 2.5%;
     overflow: hidden;
-    transition: transform 0.3s;
+    transition: transform 0.1s;
 }
 
 .recipe-img {
@@ -279,7 +278,7 @@ header {
     font-weight: 900;
     background-color: #094B71;
     color: white;
-    transition-duration: 0.4s;
+    transition-duration: 0.1s;
 }
 
 .mail-sign-up button:active {
