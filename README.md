@@ -6,7 +6,7 @@ The Sauce is a cooking and recipe website which aims it's content at younger/ine
 
 ![mockup](./assets/images/amiresponsive_screenshot.png)
 
-## Aims
+# Aims
 
 ### Organisation Aims
 - Engage new cooks and help them to start cooking for themselves
@@ -26,4 +26,6 @@ The Sauce is a cooking and recipe website which aims it's content at younger/ine
 - Younger people & students - but still suitable/accessable for any age if they are new to cooking
 - People who have not yet discovered their passion for food & cooking
 - People with a care for sustainability in their lives
+
+
 
