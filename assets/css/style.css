@@ -193,7 +193,7 @@ header {
     background-color: #84CF89;
 }
 
-.garlic-text p {
+.garlic-text h2, h3 {
     text-align: center;
     font-family: 'Archivo', sans-serif;
     font-size: 1.2em;
@@ -818,7 +818,7 @@ footer a:hover {
         font-size: 1.4em;
     }
 
-    .garlic-text p {
+    .garlic-text h2, h3 {
         font-size: 1.6em;
     }
 
