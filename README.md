@@ -108,3 +108,14 @@ The Sauce is a cooking and recipe website which aims it's content at younger/ine
 
 <img src="./assets/screenshots/signupconfirm.png" width="300" height="700">
 
+# Design
+
+I made up some wireframe images which just gave me a basic guide of how I intended to structure the site and the content to flow.
+
+<img src="./assets/screenshots/p1mockup.png" width="300" height="700">
+<img src="./assets/screenshots/p1mockup2.png">
+
+I decided to go for a mobile first design approach for two reasons; firstly with my target audience being younger they would be more likely to browse from their phone. This is amplified by the fact that when cooking in a kitchen using a phone is much more convenient to look at than a laptop, with a desktop being highly unlikely to be used at all whilst actually cooking.
+
+
+
