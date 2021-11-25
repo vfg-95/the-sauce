@@ -30,7 +30,7 @@ header {
     color: black;
 }
 
-.logo:hover {
+.logo:active {
     transform: scale(1.1);
 }
 
@@ -48,7 +48,7 @@ header {
     font-weight: bold;
 }
 
-#menu a:hover {
+#menu a:active {
     color: #02A9B7;
     transition-duration: 0.2s;
 }
@@ -91,7 +91,7 @@ header {
     font-size: 1.8em;
 }
 
-#featured-recipe img:hover {
+#featured-recipe img:active {
     transform: scale(1.1);
 }
 
@@ -126,7 +126,7 @@ header {
     text-align: center;
 }
 
-.sustainable-container img:hover {
+.sustainable-container img:active {
     transform: scale(1.1);
 }
 
@@ -169,7 +169,7 @@ header {
     font-size: 1em;
 }
 
-.recipe:hover {
+.recipe:active {
     transform: scale(1.05);
 }
 
@@ -282,7 +282,7 @@ header {
     transition-duration: 0.4s;
 }
 
-.mail-sign-up button:hover {
+.mail-sign-up button:active {
     background-color: #053049;
 }
 
@@ -314,7 +314,7 @@ footer a {
     font-size: 1.3em;
 }
 
-footer a:hover {
+footer a:active {
     color: #02A9B7;
 }
 
@@ -503,7 +503,7 @@ footer a:hover {
     color: white;
 }
 
-#contact-us a:hover {
+#contact-us a:active {
     color: #053049;
 }
 
