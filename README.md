@@ -18,7 +18,7 @@ The Sauce is a cooking and recipe website which aims it's content at younger/ine
 - The user wants to immediately know the purpose of the site
 - The user wants to buy into the ethos of the site
 - The user want to be able to quickly and easily navigate the site
-- The user wants to know the time and involved with a recipe
+- The user wants to know the time and cost involved with a recipe
 - The user wants simple and concise instructions/information
 - The user wants the site to be phone friendly
 
@@ -27,4 +27,84 @@ The Sauce is a cooking and recipe website which aims it's content at younger/ine
 - People who have not yet discovered their passion for food & cooking
 - People with a care for sustainability in their lives
 
+# Features
+
+## Navigation Bar
+- The navigation bar immediately gives the user the option to navigate to the most important part of the site (recipes) as well as the commonly found links to contact, about as well as home. These are clear and easily tapable for phone users
+- This meets the 1st 3rd & 6th user stories
+
+<img src="./assets/screenshots/navbar.png">
+
+## Landing Page/Featured Recipe
+- The landing page makes use of a big featured recipe image at the top of the page, and also shows the very top of the next section, encouraging the user to scroll down.
+- This meets the 1st & 6th user stories
+
+<img src="./assets/screenshots/landingpage.png" width="300" height="700">
+
+## Sustainable Section
+- The image of the world is a clear seperation from the rest of the content on the page/site and is what conveys the sustainable part of the sites aim & ethos
+- This meets the 2nd user story
+
+<img src="./assets/screenshots/sus-section.png" width="300" height="700">
+
+## Recipe Section
+- The recipe images invite the user to click on them for more info, whilst also providing them with the options of actual recipes themselves
+- The meets the 3rd, 5th & 6th user stories
+
+<img src="./assets/screenshots/recipe-section.png" width="300" height="700">
+
+## Garlic Tip Section
+
+- The YouTube video shared will be very helpful for those new to cooking, providing them with visual tips which they can watch on their phone whilst in the process of cooking
+- This meets the 5th & 6th user stories
+
+<img src="./assets/screenshots/tip-section.png" width="300" height="700">
+
+## Sign Up Section
+
+- Allows the user to recieve all the latest recipe and tips updates to the site
+- Meets 4th & 5th user stories 
+
+<img src="./assets/screenshots/mailinglist.png" width="300" height="700">
+
+## Footer
+
+- Allows the user to easily access the about us page and also the sites social media accounts
+
+<img src="./assets/screenshots/footer.png">
+
+## Sustainability Page
+
+- Provides the user with useful tips which support the aims of the site and appeal to the target audience
+- Meets the 2nd & 5th user stories
+
+<img src="./assets/screenshots/sustainabilitypage.png" width="300" height="700">
+
+## Recipe Pages
+
+- Provide the user with the main aim of the site which is recipes that also fit the other critera (cheap, easy, sustainable)
+- Clearly displays time and cost involved, whilst also giving tips to achieve better sustainability
+- Meets the 2nd, 4th, 5th & 6th user stories
+
+<img src="./assets/screenshots/recipeimg.png" width="300" height="700">
+
+## Contact Page
+
+- Allows the user to get in touch with us and have some potential input into the site
+- This meets the 4th organisational aim
+
+<img src="./assets/screenshots/contactus.png" width="300" height="700">
+
+## About Us Page
+
+- This is the direct way of reinforcing what the website stands for and aims to provide for it's users
+- This meets the 1st, 2nd and 5th user stories
+
+<img src="./assets/screenshots/aboutus.png" width="300" height="700">
+
+## Sign Up Confirm Page
+
+- This is the responsive way to let the user know they have been successfully signed up to the mailing list and what they can expect to recieve from it
+
+<img src="./assets/screenshots/signupconfirm.png" width="300" height="700">
 
