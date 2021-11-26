@@ -189,7 +189,13 @@ However I went back and made some changes to the size of the images which is whe
 
 # Validator Testing
 
+Both HTML and CSS passed the W3C HTML and Jisgaw Css validators
 
+<img src="./assets/screenshots/w3validator.png">
+
+```
+
+<img src="./assets/screenshots/jigsawvalidator.png">
 
 
 
