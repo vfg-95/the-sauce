@@ -137,6 +137,64 @@ I added quite a few different google fonts so I could play around with them and 
 
 The main idea with structure was to get the main points of the website across as soon as the user landed on the site. I think this is achieved very well by just the imagery alone, even if the user just looks at the photos they immediately see a big photo of food followed by Earth from space. The two main points of the website are conveyed in their respective priority of order; a cooking website, with a care for the Earth & sustainability. 
 
+# Testing
+
+For the testing process I made use of Google Chrome Dev to test the following devices for site responsivity:
+
+-   Moto G4
+-   Galaxy S5
+-   Pixel 2
+-   Pixel 2 XL
+-   iPhone 5/SE
+-   iPhone 6/7/8
+-   iPhone 6/7/8 Plus
+-   iPhone X
+-   iPad
+-   iPad Pro
+-   13" MacBook
+-   16" MacBook
+-   21" iMac
+-   27" iMac
+
+I then used my phone (iPhone XR) to test the following browsers:
+
+- Chrome
+- Safari
+- Firefox
+- Edge
+
+## Process
+
+- The first task in testing was to check that all links on the site worked as expected, I found no problems with these across all 4 browsers.
+
+- I then checked that the mail sign up section and button was working so that it took me through to the sign up confirmation page, as well as made sure the email was required before it let you submit. This worked across all browsers.
+
+- Next I tested the responsivity of pseudo classes I used, and here I found some problems (see fix section)
+
+- Last I checked fonts were displaying as expected across all 4 browsers, which they were.
+
+# Lighthouse Testing
+
+My results for desktop came back positive, apart from best practises which seemed to have an issue with the youtube video and security.
+
+<img src="./assets/screenshots/desktoplighthouse.png">
+
+For mobile I intially recived the following result
+
+<img src="./assets/screenshots/mobilelighthouse1.png">
+
+However I went back and made some changes to the size of the images which is where it suggested a lot of the issues were, which did improve the performance. Unfortuntely the best practises was still effected by the same issues as on desktop regarding the youtube video.
+
+<img src="./assets/screenshots/mobilelighthouse2.png">
+
+# Validator Testing
+
+
+
+
+
+
+
 
 
 
