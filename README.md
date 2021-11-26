@@ -117,5 +117,13 @@ I made up some wireframe images which just gave me a basic guide of how I intend
 
 I decided to go for a mobile first design approach for two reasons; firstly with my target audience being younger they would be more likely to browse from their phone. This is amplified by the fact that when cooking in a kitchen using a phone is much more convenient to look at than a laptop, with a desktop being highly unlikely to be used at all whilst actually cooking.
 
+As you can see from the wireframes my inital idea was to mimic a social media style feed on mobile, primarily Instagram as this is the most prevelant social media app used by the target audience. However once I got together the images and content I intended to use I played around with structure etc to come up with something different but maintained the scrollable aspect of an app like Instagram.
+
+I then moved onto colour scheme. I decided to use Earth tones (sky/sea blue, grass green) as this achieved the organisational aim of conveying it's intentions through it's design. This is because of the emphasis on sustainability which the colour scheme matches perfectly, and helps the user buy into the ethos of the site. The colours are also split into categories - the turqoise/sea blue colour is used to reference anything to do with actual recipes. Sky blue is for anything to do with contact information, and finally the green is for general tips. This can be continued into the fuutre development of the site when any new content is added. You can see these from the screenshots below.
+
+<img src="./assets/screenshots/recipe-section.png" width="300" height="700"> <img src="./assets/screenshots/mailinglist.png" width="300" height="700"> <img src="./assets/screenshots/sustainabilitypage.png" width="300" height="700">
+
+
+
 
 
