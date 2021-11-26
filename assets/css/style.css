@@ -339,8 +339,8 @@ footer a:active {
 }
 
 .info {
-    height: 60px;
     width: 100%;
+    padding: 10px 0;
     background-color: #02A9B7;
     font-family: 'Archivo', sans-serif;
     color: white;

@@ -119,9 +119,25 @@ I decided to go for a mobile first design approach for two reasons; firstly with
 
 As you can see from the wireframes my inital idea was to mimic a social media style feed on mobile, primarily Instagram as this is the most prevelant social media app used by the target audience. However once I got together the images and content I intended to use I played around with structure etc to come up with something different but maintained the scrollable aspect of an app like Instagram.
 
-I then moved onto colour scheme. I decided to use Earth tones (sky/sea blue, grass green) as this achieved the organisational aim of conveying it's intentions through it's design. This is because of the emphasis on sustainability which the colour scheme matches perfectly, and helps the user buy into the ethos of the site. The colours are also split into categories - the turqoise/sea blue colour is used to reference anything to do with actual recipes. Sky blue is for anything to do with contact information, and finally the green is for general tips. This can be continued into the fuutre development of the site when any new content is added. You can see these from the screenshots below.
+## Colour
+
+I then moved onto colour scheme which I knew was going to be very important. I decided to use Earth tones (sky/sea blue, grass green) as this achieved the organisational aim of conveying it's intentions through it's design. This is because of the emphasis on sustainability which the colour scheme matches perfectly, and helps the user buy into the ethos of the site. The colours are also split into categories - the turqoise/sea blue colour is used to reference anything to do with actual recipes. Sky blue is for anything to do with contact information, and finally the green is for general tips. This can be continued into the fuutre development of the site when any new content is added. You can see these from the screenshots below.
 
 <img src="./assets/screenshots/recipe-section.png" width="300" height="700"> <img src="./assets/screenshots/mailinglist.png" width="300" height="700"> <img src="./assets/screenshots/sustainabilitypage.png" width="300" height="700">
+
+## Imagery
+
+In terms of the imagery used these are fairly self explanitory as they are images for the recipes provided, or background shots of meals which arent recipes on the site but of course tie in with the theme and purpose. The image of the Earth from space and also the background of the sustainabiliy page are ones you wouldnt necessarily expect to see on a food website, however again for the target audience they help them buy into the sites aims.
+
+## Fonts
+
+I added quite a few different google fonts so I could play around with them and find a mixture that I thought fit the site. I knew I wanted clean and modern looking fonts for headings, and I ended up using Barlow for the header and footer and then using Archivo for the headings on the site. These made sense as it is a site aimed at a younger target audience and so modern works well. I contrasted this with the Tino font used for paragraph text, which works well as a balance of Serif and San-Serif fonts and gives clear seperation between text.
+
+## Structure
+
+The main idea with structure was to get the main points of the website across as soon as the user landed on the site. I think this is achieved very well by just the imagery alone, even if the user just looks at the photos they immediately see a big photo of food followed by Earth from space. The two main points of the website are conveyed in their respective priority of order; a cooking website, with a care for the Earth & sustainability. 
+
+
 
 
 
