@@ -193,11 +193,34 @@ Both HTML and CSS passed the W3C HTML and Jisgaw Css validators
 
 <img src="./assets/screenshots/w3validator.png">
 
-```
-
 <img src="./assets/screenshots/jigsawvalidator.png">
 
+# Fixes
 
+I realised when testing on my phone that I had used the wrong type of pseudo classes as I was developing the site on my laptop I had used the :hover pseudo class. On a mobile there is no way to hover and so I changed these to :active instead and, and used the media queries to keep the :hover classes on desktop screens.
+
+The success of these on mobile is slightly different depnding on the broswer used, however there is no negative effect to keeping them and on some broswers they worked quite well.
+
+# Deployment
+
+I deplayed the site using GitHub pages, with the steps as follows:
+
+- Go to the settings tab of the GitHub repository
+- Click on the pages tab
+- Chose the main branch on the source dropdown menu
+- The site refreshes and provides you with the live link for the site
+
+# Credits
+
+- Information on how to make iframes responsive was found on [W3schools](https://www.w3schools.com/howto/howto_css_responsive_iframes.asp)
+- I learnt about flexbox usage on [MDNWebDocs](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox)
+- I learnt about pseudo classes on [MDNWebDocs](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes)
+- Icons were taken from [FontAwsome](https://fontawesome.com/v5.15/icons?d=gallery&p=2)
+
+# Media
+
+- All images and photos for the site were taken from [Unsplash](https://unsplash.com/)
+- The YouTube Video was shared from the account [Tastemade](https://www.youtube.com/watch?v=kgEXHeovHdU)
 
 
 
