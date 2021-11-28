@@ -2,7 +2,7 @@
 
 Deployed site: https://vfg-95.github.io/the-sauce/
 
-The Sauce is a cooking and recipe website which aims it's content at younger/inexperienced cooks (especially students) and has an emphasis on sustainability with their cooking. The site will target them by providing cheap and easy recipes in an informal style, as well as share useful tips/content useful to people new to cooking. The site should appeal to it's demographic for two main reasons. Firstly, generally speaking, many young people and students in particular will be cooking properly themseleves for the first time and will want to keep costs down in the process. Secondly, younger generations are stated to be more concerned with sustainability in their lives.
+The Sauce is a cooking and recipe website which aims its content at younger/inexperienced cooks (especially students) and has an emphasis on sustainability with their cooking. The site will target them by providing cheap and easy recipes in an informal style, as well as share useful tips/content useful to people new to cooking. The site should appeal to its demographic for two main reasons. Firstly, generally speaking, many young people and students in particular will be cooking properly themselves for the first time and will want to keep costs down in the process. Secondly, younger generations are stated to be more concerned with sustainability in their lives.
 
 ![mockup](./assets/screenshots/amiresponsive_screenshot.png)
 
@@ -57,14 +57,14 @@ The Sauce is a cooking and recipe website which aims it's content at younger/ine
 - The user wants the site to be phone friendly
 
 ### Target Audience
-- Younger people & students - but still suitable/accessable for any age if they are new to cooking
+- Younger people & students - but still suitable/accessible for any age if they are new to cooking
 - People who have not yet discovered their passion for food & cooking
 - People with a care for sustainability in their lives
 
 ## Features
 
 ### Navigation Bar
-- The navigation bar immediately gives the user the option to navigate to the most important part of the site (recipes) as well as the commonly found links to contact, about as well as home. These are clear and easily tapable for phone users
+- The navigation bar immediately gives the user the option to navigate to the most important part of the site (recipes) as well as the commonly found links to contact, about as well as home. These are clear and easily tappable for phone users
 - This meets the 1st 3rd & 6th user stories
 
 <img src="./assets/screenshots/navbar.png">
@@ -76,7 +76,7 @@ The Sauce is a cooking and recipe website which aims it's content at younger/ine
 <img src="./assets/screenshots/landingpage.png" width="300" height="700">
 
 ### Sustainable Section
-- The image of the world is a clear seperation from the rest of the content on the page/site and is what conveys the sustainable part of the sites aim & ethos
+- The image of the world is a clear separation from the rest of the content on the page/site and is what conveys the sustainable part of the sites aim & ethos
 - This meets the 2nd user story
 
 <img src="./assets/screenshots/sus-section.png" width="300" height="700">
@@ -96,7 +96,7 @@ The Sauce is a cooking and recipe website which aims it's content at younger/ine
 
 ### Sign Up Section
 
-- Allows the user to recieve all the latest recipe and tips updates to the site
+- Allows the user to receive all the latest recipe and tips updates to the site
 - Meets 4th & 5th user stories 
 
 <img src="./assets/screenshots/mailinglist.png" width="300" height="700">
@@ -116,7 +116,7 @@ The Sauce is a cooking and recipe website which aims it's content at younger/ine
 
 ### Recipe Pages
 
-- Provide the user with the main aim of the site which is recipes that also fit the other critera (cheap, easy, sustainable)
+- Provide the user with the main aim of the site which is recipes that also fit the other criteria (cheap, easy, sustainable)
 - Clearly displays time and cost involved, whilst also giving tips to achieve better sustainability
 - Meets the 2nd, 4th, 5th & 6th user stories
 
@@ -138,7 +138,7 @@ The Sauce is a cooking and recipe website which aims it's content at younger/ine
 
 ### Sign Up Confirm Page
 
-- This is the responsive way to let the user know they have been successfully signed up to the mailing list and what they can expect to recieve from it
+- This is the responsive way to let the user know they have been successfully signed up to the mailing list and what they can expect to receive from it
 
 <img src="./assets/screenshots/signupconfirm.png" width="300" height="700">
 
@@ -151,21 +151,21 @@ I made up some wireframe images which just gave me a basic guide of how I intend
 
 I decided to go for a mobile first design approach for two reasons; firstly with my target audience being younger they would be more likely to browse from their phone. This is amplified by the fact that when cooking in a kitchen using a phone is much more convenient to look at than a laptop, with a desktop being highly unlikely to be used at all whilst actually cooking.
 
-As you can see from the wireframes my inital idea was to mimic a social media style feed on mobile, primarily Instagram as this is the most prevelant social media app used by the target audience. However once I got together the images and content I intended to use I played around with structure etc to come up with something different but maintained the scrollable aspect of an app like Instagram.
+As you can see from the wireframes my initial idea was to mimic a social media style feed on mobile, primarily Instagram as this is the most prevalent social media app used by the target audience. However once I got together the images and content I intended to use I played around with structure etc to come up with something different but maintained the scrollable aspect of an app like Instagram.
 
 ### Colour
 
-I then moved onto colour scheme which I knew was going to be very important. I decided to use Earth tones (sky/sea blue, grass green) as this achieved the organisational aim of conveying it's intentions through it's design. This is because of the emphasis on sustainability which the colour scheme matches perfectly, and helps the user buy into the ethos of the site. The colours are also split into categories - the turqoise/sea blue colour is used to reference anything to do with actual recipes. Sky blue is for anything to do with contact information, and finally the green is for general tips. This can be continued into the fuutre development of the site when any new content is added. You can see these from the screenshots below.
+I then moved onto colour scheme which I knew was going to be very important. I decided to use Earth tones (sky/sea blue, grass green) as this achieved the organisational aim of conveying its intentions through its design. This is because of the emphasis on sustainability which the colour scheme matches perfectly, and helps the user buy into the ethos of the site. The colours are also split into categories - the turquoise/sea blue colour is used to reference anything to do with actual recipes. Sky blue is for anything to do with contact information, and finally the green is for general tips. This can be continued into the future development of the site when any new content is added. You can see these from the screenshots below.
 
 <img src="./assets/screenshots/recipe-section.png" width="300" height="700"> <img src="./assets/screenshots/mailinglist.png" width="300" height="700"> <img src="./assets/screenshots/sustainabilitypage.png" width="300" height="700">
 
 ### Imagery
 
-In terms of the imagery used these are fairly self explanitory as they are images for the recipes provided, or background shots of meals which arent recipes on the site but of course tie in with the theme and purpose. The image of the Earth from space and also the background of the sustainabiliy page are ones you wouldnt necessarily expect to see on a food website, however again for the target audience they help them buy into the sites aims.
+In terms of the imagery used these are fairly self explanatory as they are images for the recipes provided, or background shots of meals which aren't recipes on the site but of course tie in with the theme and purpose. The image of the Earth from space and also the background of the sustainability page are ones you wouldn't necessarily expect to see on a food website, however again for the target audience they help them buy into the sites aims.
 
 ### Fonts
 
-I added quite a few different google fonts so I could play around with them and find a mixture that I thought fit the site. I knew I wanted clean and modern looking fonts for headings, and I ended up using Barlow for the header and footer and then using Archivo for the headings on the site. These made sense as it is a site aimed at a younger target audience and so modern works well. I contrasted this with the Tino font used for paragraph text, which works well as a balance of Serif and San-Serif fonts and gives clear seperation between text.
+I added quite a few different google fonts so I could play around with them and find a mixture that I thought fit the site. I knew I wanted clean and modern looking fonts for headings, and I ended up using Barlow for the header and footer and then using Archivo for the headings on the site. These made sense as it is a site aimed at a younger target audience and so modern works well. I contrasted this with the Tino font used for paragraph text, which works well as a balance of Serif and San-Serif fonts and gives clear separation between text.
 
 ### Structure
 
@@ -213,11 +213,11 @@ My results for desktop came back positive, apart from best practises which seeme
 
 <img src="./assets/screenshots/desktoplighthouse.png">
 
-For mobile I intially recived the following result
+For mobile I initially received the following result
 
 <img src="./assets/screenshots/mobilelighthouse1.png">
 
-However I went back and made some changes to the size of the images which is where it suggested a lot of the issues were, which did improve the performance. Unfortuntely the best practises was still effected by the same issues as on desktop regarding the youtube video.
+However I went back and made some changes to the size of the images which is where it suggested a lot of the issues were, which did improve the performance. Unfortunately the best practises was still effected by the same issues as on desktop regarding the youtube video.
 
 <img src="./assets/screenshots/mobilelighthouse2.png">
 
@@ -233,11 +233,11 @@ Both HTML and CSS passed the W3C HTML and Jisgaw Css validators
 
 I realised when testing on my phone that I had used the wrong type of pseudo classes as I was developing the site on my laptop I had used the :hover pseudo class. On a mobile there is no way to hover and so I changed these to :active instead, and used the media queries to keep the :hover classes on desktop screens.
 
-The success of these on mobile is slightly different depnding on the broswer used, however there is no negative effect to keeping them and on some broswers they worked quite well.
+The success of these on mobile is slightly different depending on the browser used, however there is no negative effect to keeping them and on some browsers they work quite well.
 
 ## Deployment
 
-I deplayed the site using GitHub pages, with the steps as follows:
+I deployed the site using GitHub pages, with the steps as follows:
 
 - Go to the settings tab of the GitHub repository
 - Click on the pages tab
