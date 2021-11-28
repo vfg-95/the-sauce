@@ -231,9 +231,11 @@ Both HTML and CSS passed the W3C HTML and Jisgaw Css validators
 
 ## Fixes
 
-I realised when testing on my phone that I had used the wrong type of pseudo classes as I was developing the site on my laptop I had used the :hover pseudo class. On a mobile there is no way to hover and so I changed these to :active instead, and used the media queries to keep the :hover classes on desktop screens.
+I realised when testing on my phone that I had used the wrong type of pseudo classes as I was developing the site on my laptop and I had used the :hover pseudo class. On a phone there is no way to hover and so I changed these classes to :active instead, and used the media queries to keep the :hover classes on desktop screens.
 
 The success of these on mobile is slightly different depending on the browser used, however there is no negative effect to keeping them and on some browsers they work quite well.
+
+Upon my final inspection of the website I found some minor issues with the garlic tip section on tablets and desktop screen sizes. The text for the section had no padding so this was easily resolved, and the YouTube video was overflowing its section into the next. This was also easily resolved by changing the height of the section to 100% on the relevant media queries.
 
 ## Deployment
 
