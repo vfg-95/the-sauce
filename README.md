@@ -190,7 +190,7 @@ For the testing process I made use of Google Chrome Dev to test the following de
 -   21" iMac
 -   27" iMac
 
-I then used my phone (iPhone XR) to test the following browsers:
+I then used my phone (iPhone XR) and laptop (MacBook Air 13") to test the following browsers:
 
 - Chrome
 - Safari
