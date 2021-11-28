@@ -854,6 +854,10 @@ footer a:active {
         transform: scale(1.05);
     }
 
+    #garlic-tips {
+        height: 100%;
+    }
+
     .garlic-text h2, h3 {
         font-size: 1.6em;
     }
